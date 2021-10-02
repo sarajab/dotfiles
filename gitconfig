@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sara.eljabri@ieseg.fr
+	name = sara eljabri
